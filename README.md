@@ -17,6 +17,7 @@ Follow these steps to set up and use Elixir Script:
 4. **Set Up in Visual Studio Code:**
    - Open Visual Studio Code.
    - Open the folder containing the scripts.
+     
   ![image](https://github.com/user-attachments/assets/586c9e99-a31c-4af5-bd94-d5facd67e0b2)
 
 5. **Open a terminal cmd and execute all this command:**
